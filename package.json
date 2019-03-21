@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/yyj-umi-block",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "src/index.js",
+  "authors": {
+    "name": "yyjay",
+    "email": "675363017@qq.com"
+  },
+  "repository": "https://github.com/YYJay/umi-block/yyj-umi-block",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    "umi-plugin-block-dev": "^1.0.0"
+  },
+  "license": "MIT"
+}
