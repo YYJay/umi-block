@@ -3,7 +3,7 @@ import styles from './index.css';
 export default function() {
   return (
     <div className={styles.normal}>
-      <h1>I am a umi block!test</h1>
+      <h1>umi dev block</h1>
     </div>
   );
 }
