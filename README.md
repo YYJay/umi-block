@@ -5,7 +5,7 @@ test
 ## Usage
 
 ```sh
-umi block https://github.com/YYJay/umi-block/tree/master/yyj-umi-block
+umi block https://github.com/YYJay/umi-block/tree/${branch_name}/yyj-umi-block
 ```
 
 ## LICENSE
